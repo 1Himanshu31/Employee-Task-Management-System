@@ -1,0 +1,1 @@
+The Employment Task Management System is a robust web application designed to streamline task delegation and tracking within teams. Developed to enhance productivity and ensure efficient management of tasks, this system allows employees to assign tasks to others, set deadlines, and report completion times
